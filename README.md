@@ -15,8 +15,6 @@ I am currently pursuing the Ph.D degree advised by Prof. Yue Wu with the School 
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yyzmars&theme=transparent" alt="GitHub Streak" />
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yyzmars&repo=anuraghazra.github.io&theme=buefy" />
-
+<img height="20" src="https://github-readme-streak-stats.herokuapp.com?user=yyzmars&theme=transparent" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=transparent" />
 </p>
