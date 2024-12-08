@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yyzmars&style=for-the-badge"/>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
 <p align="justify">
