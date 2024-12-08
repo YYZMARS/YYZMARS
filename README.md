@@ -1,6 +1,6 @@
 <h2 align="center">Hi! I'm Yongzhe Yuan!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p align="center">
+<p align = "justify">
   <img src="https://komarev.com/ghpvc/?username=yyzmars&style=for-the-badge"/>
 </p>
 
