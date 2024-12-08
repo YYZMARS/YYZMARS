@@ -18,3 +18,7 @@ I am currently pursuing the Ph.D degree advised by Prof. Yue Wu with the School 
 <img height="190" src="https://github-readme-streak-stats.herokuapp.com?user=yyzmars&theme=transparent" alt="GitHub Streak" />
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=transparent" />
 </p>
+
+<p align="center">
+<img height="190" src="https://github-profile-trophy.vercel.app/?username=yyzmars&theme=nord&column=6" />
+</p>
