@@ -24,5 +24,5 @@ I am currently pursuing the Ph.D degree advised by Prof. Yue Wu with the School 
 </p>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img height="80" width="100%" src="/image/rain-3582.gif"/>
 </p>
