@@ -1,7 +1,7 @@
 <h2 align="center">
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
   Hi! I'm Yongzhe Yuan!
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h2>
   
 <div align='center'>
