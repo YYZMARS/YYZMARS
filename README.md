@@ -4,6 +4,6 @@ I am currently pursuing the Ph.D degree advised by Prof. Yue Wu with the School 
 
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=yyzmars&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=yyzmars&style=for-the-badge"/>
 </p>
 
