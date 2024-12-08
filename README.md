@@ -4,4 +4,4 @@ I am currently pursuing the Ph.D degree advised by Prof. Yue Wu with the School 
 
 
 
-![](https://komarev.com/ghpvc/?username=yyzmars)
+![](https://komarev.com/ghpvc/?username=yyzmars&style=flat-square)
