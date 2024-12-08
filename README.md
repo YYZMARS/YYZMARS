@@ -20,5 +20,5 @@ I am currently pursuing the Ph.D degree advised by Prof. Yue Wu with the School 
 </p>
 
 <p align="center">
-<img height="190" src="https://github-profile-trophy.vercel.app/?username=yyzmars&theme=nord&column=6" />
+<img height="240" src="https://github-profile-trophy.vercel.app/?username=yyzmars&theme=flat" />
 </p>
