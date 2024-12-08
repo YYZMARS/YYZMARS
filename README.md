@@ -13,12 +13,7 @@
 I am currently pursuing the Ph.D degree advised by Prof. Yue Wu with the School of Computer Science and Technology, MoE Key Lab of Collaborative Intelligence Systems, Xidian University. I was recommended for admission to the School of Computer Science and Technology at Xidian University to pursue a master’s degree in 2020. In 2022, I continued my studies as a successive postgraduate and doctoral program student.
 </p>
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=yyzmars&&show_icons=true&theme=radical"/>
-</a>
-</p>
 
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yyzmars&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yyzmars&theme=transparent" alt="GitHub Streak" /></a>
 </p>
