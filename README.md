@@ -1,4 +1,4 @@
-<h2 align="center">Hi! I'm Yongzhe Yuan!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center"><img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> Hi! I'm Yongzhe Yuan!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <div align='center'>
   <p align='center'>
     <a href="https://www.linkedin.com/in/taehyun-hwang-876631201"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
