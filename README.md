@@ -19,3 +19,6 @@ I am currently pursuing the Ph.D degree advised by Prof. Yue Wu with the School 
 </a>
 </p>
 
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yyzmars&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
