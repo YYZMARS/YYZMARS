@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
   
-<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
+<a href="https://www.linkedin.com/in/peterthehan">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/365 Data Science"></a>
+    
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yyzmars&style=for-the-badge"/>
 </p>
