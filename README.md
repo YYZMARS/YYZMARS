@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
   
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/00ccff" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yyzmars&style=for-the-badge"/>
 </p>
