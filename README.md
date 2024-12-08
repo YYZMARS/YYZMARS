@@ -1,6 +1,6 @@
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  Hi! I'm **[Yongzhe Yuan](https://yyzmars.github.io/)**!
+  Hi! I'm [Yongzhe Yuan](https://yyzmars.github.io/)!
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
