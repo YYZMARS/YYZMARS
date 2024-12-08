@@ -1,6 +1,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=yyzmars&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yyzmars&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yyzmars&theme=radical&line_height=27">
 </p>
 
 <h2 align="center">Hi! I'm Yongzhe Yuan!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
