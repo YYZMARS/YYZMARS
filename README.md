@@ -4,12 +4,7 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 
-<p align="center">
-  <a href="https://yyzmars.github.io/">
-    <img alt="Homepage" title="Homepage" height="40" width="40" src="https://cdn.simpleicons.org/homeassistantcommunitystore"></a>
-</p>
-
-    
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yyzmars&style=for-the-badge"/>
 </p>
