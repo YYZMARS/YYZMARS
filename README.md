@@ -4,13 +4,7 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
   
-<div align='center'>
-  <p align='center'>
-    <a href="https://www.linkedin.com/in/taehyun-hwang-876631201"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/home.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:eeht1717@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-  </p>
-</div>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/simpleicons.svg" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yyzmars&style=for-the-badge"/>
 </p>
