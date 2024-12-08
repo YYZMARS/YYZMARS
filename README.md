@@ -24,5 +24,5 @@ I am currently pursuing the Ph.D degree advised by Prof. Yue Wu with the School 
 </p>
 
 <p align="center">
-        <img height="100%" width="100%" src="/image/congratulations.gif"/>
+        <img height="30%" width="100%" src="/image/congratulations.gif"/>
 </p>
