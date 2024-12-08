@@ -15,5 +15,5 @@ I am currently pursuing the Ph.D degree advised by Prof. Yue Wu with the School 
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yyzmars&theme=transparent" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yyzmars&theme=transparent" alt="GitHub Streak" />
 </p>
