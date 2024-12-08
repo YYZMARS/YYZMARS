@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <a href="yyzmars.github.io">
+  <a href="https://yyzmars.github.io/">
     <img alt="Homepage" title="Homepage" height="40" width="40" src="https://cdn.simpleicons.org/homeassistantcommunitystore"></a>
 </p>
 
